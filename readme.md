@@ -28,7 +28,7 @@ As the Census Bureau gears up for the 2020 Decennial Census, it is more importan
 
 6. **Reinventing Web Applications: Coding for the Future** — Li Wang
 
-By taking modern tools and applying them to software at the Census Bureau, Li was able to dramatically reduce operations and maintenace costs associated with older platforms and bring a newer approach to software development.
+By taking modern tools and applying them to software at the Census Bureau, Li was able to dramatically reduce operations and maintenance costs associated with older platforms and bring a newer approach to software development.
 
 7. **Machine Learning: Optimizing the Commodity Flow Survey** — Andrew Cukierwar
 
