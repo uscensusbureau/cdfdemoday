@@ -1,3 +1,5 @@
+_View `Final Presentation.pdf` to see all of the slides. It's too large to view on GitHub, so be sure to click the download utton instead of waiting for it to load._
+
 ### Introduction
 The Civic Digital Fellowship is the first of its kind data science and technology internship program for innovative students to solve pressing problems in federal agencies. It is the product of a collaboration between [Coding it Forward](codingitforward.com), [The Washington Center for Internships and Academic Seminars](twc.edu), and the [U.S. Census Bureau](census.gov).
 
