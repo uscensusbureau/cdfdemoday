@@ -5,6 +5,13 @@ Meet the inaugural cohort of Civic Digital Fellows: [Introducing the 2017 Civic 
 
 This repository features the slides our fellows presented at their end of summer Demo Day, held Tuesday August 8, 2017 at the Department of Commerce.
 
+## Status
+ **This repository has been archived and is no longer maintained.**
+ 
+ The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+ 
+ It should not be used in production systems.
+ 
 ### Demos and Presentations:
 1. **Census for Small Businesses** — Mariam Baqai, Anna Wang, and Rachel Dodell
 
